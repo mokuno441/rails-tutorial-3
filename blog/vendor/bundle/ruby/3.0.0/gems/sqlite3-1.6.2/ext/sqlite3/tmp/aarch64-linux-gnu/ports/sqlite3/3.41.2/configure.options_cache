@@ -1,0 +1,1 @@
+["--host=aarch64-linux-gnu", "--enable-static", "--disable-shared", "--enable-shared=no", "--enable-static=yes", "CC=gcc", "CFLAGS=-fPIC -O2 -fvisibility=hidden", "--prefix=/app/blog/vendor/bundle/ruby/3.0.0/gems/sqlite3-1.6.2/ports/aarch64-linux-gnu/sqlite3/3.41.2"]
